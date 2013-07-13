@@ -1,0 +1,1 @@
+# Chef Cookbook Style Guide
