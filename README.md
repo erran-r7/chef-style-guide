@@ -12,5 +12,6 @@ discussion if you have a different preference or one you'd like to add.
 ### Style Guides:
 **Note**: Make sure to check out [@bbatsov's](https://github.com/bbatsov) [Ruby Style Guide](https://github.com/bbatsov/ruby-style-guide) for Ruby style.
 * Chef specific style guides:
-  * [Recipes style guide](recipes.md)
+  * [Best practices style guide](best-practices.md)
   * [Cookbooks tyle guide](cookbooks.md)
+  * [Recipes style guide](recipes.md)
