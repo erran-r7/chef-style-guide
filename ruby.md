@@ -11,4 +11,25 @@ characters or `:"foo_#{str}"` for interpolation in a Symbol.
 ## Chef Gotchas
 Since Chef still installs Ruby 1.8 to run on some systems you'll sadly have to use 1.8.7 Ruby syntax in any code run
 on the node. Make sure to use 1.9+ syntax anywhere else though! Note that while Ruby 2.0.0 is awesome, I can't ask
-everyone to use it since it's only recently released :frowning:.
+everyone to use it since it's still a newer release :disappointed:.
+
+For Hashes that will be evaluated on a node:
+```
+{
+  :symbol => 'string',
+  :foo_bar => 'foo bar with underscore!',
+  :'baz-qux' => 'baz qux with dash',
+  :"number_#{rand}" => 'a interpolated symbol'
+}
+```
+
+For Hashes written that are only ran on your workstation:
+```
+{
+  symbol: 'string',
+  foo_bar: 'foo bar with underscore!',
+  :'baz-qux' => 'baz qux with dash',
+  :"number_#{rand}" => 'a interpolated symbol'
+}
+```
+
