@@ -1,7 +1,8 @@
 # Best Practices
 ## Resources
 * [Julian Dunn's Beginning Chef Antipatterns](http://www.opscode.com/blog/chefconf-talks/beginning-chef-antipatterns-julian-dunn/)
-*
+* [Bryan Berry's How To Write Reusable Chef Cookbooks](http://devopsanywhere.blogspot.com/2012/11/how-to-write-reusable-chef-cookbooks.html)
+* [Doug Iteron's](http://dougireton.com/blog/2013/02/16/chef-cookbook-anti-patterns/)
 
 ## Antipatterns/Patterns
 The following list is compiled from the presentations/blog posts below:
