@@ -6,7 +6,7 @@
 > -- Erran Carey, a.k.a @ipwnstuff/@ecarey-r7
 
 Contributors to repositories [@rapid7-cookbooks](https://github.com/rapid7-cookbooks) are asked to adhere to the style guides listed in [below](#style-guides).
-Feedback is welcome and [pull requests](https://github.com/ecarey-r7/ruby-style-guides) are welcome to add a thread for
+Feedback is welcome and [pull requests](https://github.com/ecarey-r7/chef-style-guide/pulls) are welcome to add a thread for
 discussion if you have a different preference or one you'd like to add.
 
 ### Style Guides:
