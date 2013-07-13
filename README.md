@@ -15,3 +15,4 @@ discussion if you have a different preference or one you'd like to add.
   * [Best practices style guide](best-practices.md)
   * [Cookbooks tyle guide](cookbooks.md)
   * [Recipes style guide](recipes.md)
+  * [Ruby style in Chef](ruby.md)
