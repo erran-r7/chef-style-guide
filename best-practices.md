@@ -1,4 +1,8 @@
 # Best Practices
+## Concepts
+### Extension/Plugin cookbooks
+While some people name wrapper cookbooks with initials for their organization I like to think of some wrapper cookbooks as Ruby library extensions, that is I append `-$TYPE of `. I believe is a better naming scheme for private wrapper cookbooks that extend your own public cookbooks.
+
 ## Resources
 * [Julian Dunn's Beginning Chef Antipatterns](http://www.opscode.com/blog/chefconf-talks/beginning-chef-antipatterns-julian-dunn/)
 * [Bryan Berry's How To Write Reusable Chef Cookbooks](http://devopsanywhere.blogspot.com/2012/11/how-to-write-reusable-chef-cookbooks.html)
