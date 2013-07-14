@@ -3,7 +3,7 @@
 ### Library cookbooks
 ### Wrapper cookbooks
 ### Extension/Plugin cookbooks
-While some people name wrapper cookbooks with initials for their organization I like to think of some wrapper cookbooks as Ruby library extensions, that is I append `-$TYPE of `. I believe is a better naming scheme for private wrapper cookbooks that extend your own public cookbooks.
+While some people name wrapper cookbooks with initials for their organization I like to think of some wrapper cookbooks as Ruby library extensions, that is I append `-$EXTENSION_NAME`. I believe is a better naming scheme for private wrapper cookbooks that extend your own public cookbooks.
 
 ## Resources
 * [Julian Dunn's Beginning Chef Antipatterns](http://www.opscode.com/blog/chefconf-talks/beginning-chef-antipatterns-julian-dunn/)
